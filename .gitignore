@@ -1,0 +1,16 @@
+# Python sanal ortamı
+.venv/
+env/
+venv/
+ENV/
+
+# Model dosyaları (Çok yer kaplarlar)
+*.h5
+*.pt
+*.pth
+*.weights
+
+# Önbellek ve sistem dosyaları
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
